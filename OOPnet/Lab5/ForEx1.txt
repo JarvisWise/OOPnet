@@ -1,0 +1,3 @@
+﻿Bob 1998/9/15 ELIT 
+Max 2001/5/27 ELIT 4
+Bill 1995/2/7 ELIT lecturer 2
