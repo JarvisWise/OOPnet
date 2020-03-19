@@ -2,6 +2,7 @@
 using OOPnet.Lab3;
 using OOPnet.Lab4;
 using OOPnet.Lab5;
+using OOPnet.Lab6;
 
 namespace OOPnet
 {
@@ -51,7 +52,7 @@ namespace OOPnet
 
             //lab4
             //zv1
-            
+
             /*Console.WriteLine("ZV1--------------------------------------------");
             A a = new A();
             Console.WriteLine("This is property C of class A: "+a.C);
@@ -98,12 +99,26 @@ namespace OOPnet
             //zv4
             Console.WriteLine("ZV4--------------------------------------------");
             Store.ZVMain();*/
-            
+
 
             //lab5
+            /*Console.WriteLine("ZV1-----------------------------------------------");
             Lab5.ForEx1.ZVMain();
+            Console.WriteLine("--------------------------------------------------");
 
+            Console.WriteLine("ZV2-----------------------------------------------");
             Lab5.ForEx2.ZVMain();
+            Console.WriteLine("\n--------------------------------------------------");
+            */
+
+            //lab6 
+            Console.WriteLine("ZV1-----------------------------------------------");
+            Lab6.ForEx1.ZVMain();
+            Console.WriteLine("--------------------------------------------------");
+
+            Console.WriteLine("ZV2-----------------------------------------------");
+            Lab6.ForEx2.ZVMain();
+            Console.WriteLine("\n--------------------------------------------------");
 
 
         }

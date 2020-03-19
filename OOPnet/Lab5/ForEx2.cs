@@ -55,7 +55,6 @@ namespace OOPnet.Lab5
             else
                 Console.WriteLine("Books {0} and {1} have same number of pages!\n" + "\n\nBook {0}:" + array[a - 1] + "\n\nBook {1}:" + array[b - 1], a, b);
 
-
         }
     }
 }
