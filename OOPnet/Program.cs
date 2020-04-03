@@ -3,6 +3,7 @@ using OOPnet.Lab3;
 using OOPnet.Lab4;
 using OOPnet.Lab5;
 using OOPnet.Lab6;
+using OOPnet.Lab7;
 
 namespace OOPnet
 {
@@ -112,13 +113,17 @@ namespace OOPnet
             */
 
             //lab6 
-            Console.WriteLine("ZV1-----------------------------------------------");
+            /*Console.WriteLine("ZV1-----------------------------------------------");
             Lab6.ForEx1.ZVMain();
             Console.WriteLine("--------------------------------------------------");
 
             Console.WriteLine("ZV2-----------------------------------------------");
             Lab6.ForEx2.ZVMain();
             Console.WriteLine("\n--------------------------------------------------");
+            */
+
+            //lab7
+            Lab7.Lab7Main.LM();
 
 
         }
